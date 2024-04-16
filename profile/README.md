@@ -57,7 +57,7 @@
 
 #### 친구
 
-<img src="https://github.com/review-me-Team/.github/assets/96980857/88752314-03f3-409c-8b9d-c7f027a7f491" width="400px" />
+<img src="https://github.com/review-me-Team/.github/assets/96980857/5df47ed3-7605-4ca7-8f92-969689b41854" width="400px" />
 
 - 친구에게만 이력서를 공개하고 싶다면 친구 관계를 맺어보세요.
 
